@@ -1,0 +1,25 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+Italy/Rome
+Afghanistan/Kabul
+Albania/Tirana
+Russia/Moscow
+Brazil/Brasilia
+Venezuela/Caracas
+United Kingdom/London
+Croatia/Zagreb
+Georgia/Tbilisi
+Greece/Athens
+United States of America/Washington D.C.
+Mexico/Mexico City
+Canada/Ottowa
+Angola/Luanda
+Bahamas/Nassau
+Morocco/Rabat
+Malta/Valletta
+Nepal/Kathmandu
+Ethiopia/Addis Ababa
+Uruguay/Montevideo
